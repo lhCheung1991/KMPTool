@@ -15,3 +15,9 @@ The output of the code example.
 # Motivation
 
 Sometimes, I need the functionarity above but there is not such function in standard library, so I wrote it and review KMP by the way.
+
+# API Reference
+
+![Alt text](https://github.com/lhCheung1991/KMPTool/blob/master/code_example_api.png?raw=true "Optional Title")
+
+The function declared in kmptool.h
