@@ -24,7 +24,7 @@ int main(int argc, const char * argv[])
     kmpMatch(&res, str, m);
 
     cout << str << endl;
-    for (int i = 0; i < res.matchCount; i++)    // res.matCount maintain # of matched position
+    for (int i = 0; i < res.matchCount; i++)    // res.matchCount maintain # of matched position
     {
         for (int j = 0; j < res.matchPos[i]; j++)    // res.matchPos maintain matched position
         {
